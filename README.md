@@ -1,14 +1,33 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/7.png?alt=media&token=c9dae90a-8ab4-468b-af51-a5f496f1a1bf)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/7.png?alt=media&token=bbd73c29-d564-4c4c-9450-ddb438ee55b3)
 - 👋 
-  Hi, I’m Daniele Bulgarini - @Danyroma77
+  Salve sono Daniele Bulgarini - @Danyroma77
 - 🌱 
-  I’m currently learning: Angular, MongoDB, Spring Boot
+  Attualmente sto studiando e sviluppando in : Angular, MongoDB, Spring Boot
 - 💞️ 
-  I’m looking to collaborate on Web Developer
-- 📫 
-- Connect with me
+  Sto vedendo se è possibile collaborare con qualcuno come Web Developer
+- 📫 Connect with me
   <a href="https://www.linkedin.com/in/daniele-bulgarini-7217a6167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+
+- Chi sono
+  Sono un assistente informatico del Minsitero della Giustizia, e mi sono diplomato come Perito informatico
+  
+- I miei Progetti:<br>
+<b>Roma e I suoi Monumenti</b>
+Portale in Wordpress con personalizzazione del tema e definizione della struttura del sito.
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/5.png?alt=media&token=8a0ee472-27b5-4737-835d-4705b4fa28b7">
+
+<br>
+<b>Gabriella Pitaressi</b>
+Portale in Wordpress con personalizzazione del tema e definizione della struttura del sito.
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/2.png?alt=media&token=d7d00ad0-05e8-44a3-a526-58bfaa699384"> 
+
+<br>
+<b>Quiz - Concorsi</b>
+Applicazione sviluppata in Angular come front end, utilizzando anche Bootstrap per la UI. 
+Il Backend è una applicazione Spring Boot che si collega a un database MongoDB.
+Repository sorgetnte : <a href="https://github.com/Danyroma77/QuizAngular" target="_blank">Qui</a>
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/QUIZ.png?alt=media&token=cd4075ef-9123-4f9d-b4c3-365cfb6a4ef0">
 
 STATS 
 
