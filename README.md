@@ -11,7 +11,7 @@
 
 - Chi sono
   Sono un assistente informatico del Minsitero della Giustizia, e mi sono diplomato come Perito informatico
-  Link al mio Cv completo :<a href="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/cv_danielebulgarini20210804.pdf?alt=media&token=3a809794-cc2f-4c3d-b6b4-2bcb767a11a0" target="_blank">Clicca</a> 
+  Link al mio Cv completo :<a href="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/cv_danielebulgarini20210804.pdf?alt=media&token=3a809794-cc2f-4c3d-b6b4-2bcb767a11a0" target=_blank>Clicca</a> 
   
   
 - I miei Progetti:<br>
