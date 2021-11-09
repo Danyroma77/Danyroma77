@@ -1,5 +1,5 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/7.png?alt=media&token=bbd73c29-d564-4c4c-9450-ddb438ee55b3)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/7.png?alt=media&token=bbd73c29-d564-4c4c-9450-ddb438ee55b3)
 - 👋 
   Salve sono Daniele Bulgarini - @Danyroma77
 - 🌱 
