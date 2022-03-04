@@ -33,6 +33,8 @@ Repository sorgetnte : <a href="https://github.com/Danyroma77/QuizAngular" targe
 
 STATS 
 
+<a href="https://app.daily.dev/danielerm77"><img src="https://api.daily.dev/devcards/45a577ebe544499492010f02e283c05d.png?r=5n8" width="400" alt="Daniele Bulgarini's Dev Card"/></a>
+
 [![Top Langs](https://githubstats-danyroma77.vercel.app//api/top-langs/?username=Danyroma77)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Danyroma77's GitHub stats](https://githubstats-danyroma77.vercel.app//api?username=Danyroma77&show_icons=true&theme=radical)
