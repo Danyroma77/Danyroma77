@@ -19,12 +19,12 @@
 Portale in Wordpress con personalizzazione del tema e definizione della struttura del sito.
 <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/5.png?alt=media&token=8a0ee472-27b5-4737-835d-4705b4fa28b7">
 
-<br>
+<hr>
 <b>Gabriella Pitaressi</b>
 Portale in Wordpress con personalizzazione del tema e definizione della struttura del sito.
 <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/2.png?alt=media&token=d7d00ad0-05e8-44a3-a526-58bfaa699384"> 
 
-<br>
+<hr>
 <b>Quiz - Concorsi</b>
 Applicazione sviluppata in Angular come front end, utilizzando anche Bootstrap per la UI. 
 Il Backend è una applicazione Spring Boot che si collega a un database MongoDB.
