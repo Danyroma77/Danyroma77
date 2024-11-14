@@ -3,7 +3,7 @@
 - 👋 
   Salve sono Daniele Bulgarini - @Danyroma77
 - 🌱 
-  Attualmente sto studiando e sviluppando in : Angular, MongoDB, Spring Boot
+  Attualmente sto studiando e sviluppando in : Angular, Python, MongoDB, Spring Boot
 - 💞️ 
   Sto vedendo se è possibile collaborare con qualcuno come Web Developer
 - 📫 Connect with me
