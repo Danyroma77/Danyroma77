@@ -3,9 +3,9 @@
 - 👋 
   Salve sono Daniele Bulgarini - @Danyroma77
 - 🌱 
-  Attualmente sto studiando e sviluppando in : Angular, Python, MongoDB, Spring Boot
+  Attualmente sto studiando e sviluppando in : Angular, Python, MongoDB, Spring Boot, AI, Java
 - 💞️ 
-  Sto vedendo se è possibile collaborare con qualcuno come Web Developer
+  Sto vedendo se è possibile collaborare con qualcuno come Fullstack Developer
 - 📫 Connect with me
   <a href="https://www.linkedin.com/in/daniele-bulgarini-7217a6167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
@@ -23,13 +23,6 @@ Portale in Wordpress con personalizzazione del tema e definizione della struttur
 <b>Gabriella Pitaressi</b>
 Portale in Wordpress con personalizzazione del tema e definizione della struttura del sito.
 <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/2.png?alt=media&token=d7d00ad0-05e8-44a3-a526-58bfaa699384"> 
-
-<hr>
-<b>Quiz - Concorsi</b>
-Applicazione sviluppata in Angular come front end, utilizzando anche Bootstrap per la UI. 
-Il Backend è una applicazione Spring Boot che si collega a un database MongoDB.
-Repository sorgetnte : <a href="https://github.com/Danyroma77/QuizAngular" target="_blank">Qui</a>
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/QUIZ.png?alt=media&token=cd4075ef-9123-4f9d-b4c3-365cfb6a4ef0">
 
 STATS 
 
