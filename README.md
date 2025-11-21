@@ -3,7 +3,8 @@
 - 👋 
   Salve sono Daniele Bulgarini - @Danyroma77
 - 🌱 
-  Attualmente sto studiando e sviluppando in : Angular, Python, MongoDB, Spring Boot, AI, Java
+  Attualmente sto studiando e sviluppando in : Angular, React, Python, MongoDB, Spring Boot, AI, Java
+  Conosco Docker, Git
 - 💞️ 
   Sto vedendo se è possibile collaborare con qualcuno come Fullstack Developer
 - 📫 Connect with me
@@ -12,7 +13,7 @@
 - Chi sono
   Sono un assistente informatico del Minsitero della Giustizia, e mi sono diplomato come Perito informatico
   Link al mio Cv completo :<a href="https://firebasestorage.googleapis.com/v0/b/portfolio-f057f.appspot.com/o/cv_danielebulgarini20210804.pdf?alt=media&token=3a809794-cc2f-4c3d-b6b4-2bcb767a11a0" target=_blank>Clicca</a> 
-  
+  In questo periodo sto studiando Ing. Informatica - Percorso AI, sono oltre il 50% del percorso di studi.  
   
 - I miei Progetti:<br>
 <b>Roma e I suoi Monumenti</b>
